@@ -1,0 +1,55 @@
+
+*{
+    font-family: "BioRhyme", serif;
+    font-optical-sizing: auto;
+    padding : 0;
+    margin: 0;
+    box-sizing: border-box;  
+}
+.background{
+    background-color: black;
+    padding-bottom: 20px;
+}
+.felx{
+
+    display: flex;
+    justify-content: space-between;  
+    padding: 10px;
+    padding-top: 15px;
+}  
+.heading2{
+    color: white;
+    padding-top: 5px;
+}  
+.paragraph{
+    color: white;
+    padding-top: 10px;
+}  
+.sale{
+    color: white;
+    background-color: transparent;
+    border: 1px white solid;
+    border-radius: 15px;
+     padding: 4px; 
+     margin-top: 10px;
+     margin-left: 10px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card{
+    height: 200px;
+    width: 150;
+    
+}
+h6{
+    color: whitesmoke;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+
+}

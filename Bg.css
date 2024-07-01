@@ -1,0 +1,33 @@
+
+
+.bg{
+    background-image: url("../src/bgg.avif");
+    height: 100vh;
+    text-align: center;
+     margin-left: 15px; 
+     margin-right: 15px; 
+    background-size: cover;
+    border-radius: 20px;
+}
+.bg2{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/030/436/973/small_2x/art-gallery-exhibition-in-museum-ai-generative-photo.jpg");
+    height: 100vh;
+    text-align: center;
+     margin-left: 15px; 
+     margin-right: 15px; 
+    background-size: cover;
+    border-radius: 20px;
+
+}
+.bg3{
+    background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res70/189000/189500-Goldfields.jpg");
+    height: 100vh;
+    text-align: center;
+     margin-left: 15px; 
+     margin-right: 15px; 
+    background-size: cover;
+    border-radius: 20px;
+}
+
+
+

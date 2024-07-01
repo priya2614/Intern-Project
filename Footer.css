@@ -1,0 +1,52 @@
+*{
+    font-family: "BioRhyme", serif;
+    font-optical-sizing: auto;
+    padding : 0;
+    margin: 0;
+    box-sizing: border-box;  
+  }
+.fg{
+    background-color: black;  
+}  
+
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}  
+.head6{
+    color: white;
+}  
+.head4{
+    color: white;
+}
+.para6{
+    color: white;
+}
+.para7{
+    font-size: small;
+}
+.input{
+    background-color: transparent;
+    width: 35vw;
+    margin-left: 350px;
+    padding: 3px;
+    border-radius: 15px;
+    margin-top: 3px;
+    margin-bottom: 40px;
+}
+.final{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    font-weight: 300;
+    font-size: small;
+}
+.help{
+    display: flex;
+    font-weight: 300;
+    font-size: small;
+    justify-content: space-between;
+   
+}    
